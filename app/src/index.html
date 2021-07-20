@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>StarNotary DApp</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>StarNotary Token DAPP</h1>
+    <button id="toggle" onclick="App.myFunction()">Toggle dark mode</button>
+    <hr>
+
+    <br>
+    <h1>Create a Star</h1>
+    <br><label for="starName">Star Name:</label><input type="text" id="starName"></input>
+    <label for="starId">Star ID:</label><input type="text" id="starId"></input>
+    <button id="createStar" onclick="App.createStar()">Create Star</button>
+    <button id="burnStar" onclick="App.burnStar()">Burn Star</button>
+
+    <br>
+    <h1>Look Up StarInfo by TokenId</h1>
+    <label for="findStar">Star ID:</label><input type="text" id="findStar"></input>
+    <button id="Star Name lookup" onclick="App.lookUpStar()">Find Star</button>
+
+    <br>
+    <span id="status">Waiting for status ...</span>
+    <br>
+
+    <span id="status"></span>
+
+    <br>
+    <script src="index.js"></script>
+
+</body>
+
+</html>
