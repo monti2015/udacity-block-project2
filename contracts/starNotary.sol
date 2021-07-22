@@ -10,7 +10,7 @@ contract StarNotary is ERC721 {
     mapping(uint256 => Star) public tokenIdToStarInfo;
     mapping(uint256 => uint256) public starsForSale;
 
-    string public tokenName = "StarNotary";
+    string public name = "StarNotary";
     string public symbol = "STAR";
 
     // Create Star using the Struct
@@ -64,6 +64,9 @@ contract StarNotary is ERC721 {
 
     // Implement Task 1 Exchange Stars function
     function exchangeStars(uint256 _tokenId1, uint256 _tokenId2) public {
+        require(
+            msg.sender == ownerOf(_tokenId1) || msg.sender == ownerOf(_tokenId2)
+        );
         address user1 = ownerOf(_tokenId1);
         address user2 = ownerOf(_tokenId2);
 
