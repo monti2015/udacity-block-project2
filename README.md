@@ -30,3 +30,4 @@ OpenZeppelin version: 2.4.0<br>
 └── truffle-config.js\
 
 <h1> Example Snapshot</h1>
+![create-star](https://user-images.githubusercontent.com/29928713/126585446-93ddf5fb-75a8-4cbc-9ed9-25c4e1b2c3aa.png)
