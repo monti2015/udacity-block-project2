@@ -1,10 +1,10 @@
-<h1> Getting started and deploying contract </h1>
+<h1> Contract and  </h1>
 <br>
-Token Name: StarNotary
-Token Symbol: STAR
-Token Contract address: 0xDBE327e66BD89980719F873d1E47e53f0B8976C2
-Truffle version: 5.2.2
-OpenZeppelin version: 2.4.0
+Token Name: StarNotary<br>
+Token Symbol: STAR<br>
+Token Contract address: 0xDBE327e66BD89980719F873d1E47e53f0B8976C2<br>
+Truffle version: 5.2.2<br>
+OpenZeppelin version: 2.4.0<br>
 <br>
 
 <h2> Directory structure </h2>
