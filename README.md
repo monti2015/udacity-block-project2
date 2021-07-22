@@ -29,7 +29,7 @@ OpenZeppelin version: 2.4.0<br>
 │   └── starNotary.js\
 └── truffle-config.js\
 
-<h1> Example Snapshot</h1>\
-![create-star](https://user-images.githubusercontent.com/29928713/126585446-93ddf5fb-75a8-4cbc-9ed9-25c4e1b2c3aa.png)
-![ether-scan](https://user-images.githubusercontent.com/29928713/126585491-0173bbd3-e233-45a7-99d8-93cc7f3f0d21.png)
-![truffle-test](https://user-images.githubusercontent.com/29928713/126585533-a66223d7-580d-4800-8fd0-9902938c1c8b.png)
+<h1> Example Snapshot</h1>
+<img src="https://user-images.githubusercontent.com/29928713/126585446-93ddf5fb-75a8-4cbc-9ed9-25c4e1b2c3aa.png">
+<img src="https://user-images.githubusercontent.com/29928713/126585491-0173bbd3-e233-45a7-99d8-93cc7f3f0d21.png">
+<img src="https://user-images.githubusercontent.com/29928713/126585533-a66223d7-580d-4800-8fd0-9902938c1c8b.png">
