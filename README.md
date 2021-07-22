@@ -1,8 +1,8 @@
-<h1> Contract and  </h1>
+<h1> Application and contract info </h1>
 <br>
 Token Name: StarNotary<br>
 Token Symbol: STAR<br>
-Token Contract address: 0xDBE327e66BD89980719F873d1E47e53f0B8976C2<br>
+Token Contract address: 0xb7f4C9933b759Bd704262eC28641f66CCb248B61<br>
 Truffle version: 5.2.2<br>
 OpenZeppelin version: 2.4.0<br>
 <br>
@@ -13,7 +13,7 @@ OpenZeppelin version: 2.4.0<br>
 │   ├── node_modules\
 │   ├── package.json\
 │   ├── package-lock.json\
-│   ├── src # index.js and index.html are located\
+│   ├── src # index.js and index.html location\
 │   └── webpack.config.js\
 ├── build\
 │   └── contracts\
